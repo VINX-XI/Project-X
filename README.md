@@ -1,8 +1,8 @@
 # Enjoy Mbah 🤤
  🔥 Budayakan Install Lewat Github Biar Ga Error' 🔥
 # Warning Kerass
- 🗿 Bocil Dilarang Install 🗿
-# 100% Free🎉
+ 🗿 KALO UDH BELI DI LARANG NYEBAR!!
+# 100% BERBAYAR!!
 # Support 32/64 bit
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
 Logo Facebook 🔥
@@ -24,18 +24,18 @@ $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install stdiomask
 $ pip install --upgrade pip
-$ git clone https://github.com/Al-Vino/cracking6
+$ git clone https://github.com/VINX-XI/Project-X
 $ ls ( L kecil )
-$ cd cracking6
-$ python mom.py
+$ cd Project-X
+$ python run.py
 ```
 ## Cara Update
 ```php
 $ cd
-$ cd cracking6
+$ cd Project-X
 $ ls ( L kecil )
 $ git pull
-$ python mom.py
+$ python run.py
 ```
 ## ★ Github data ★
 >
